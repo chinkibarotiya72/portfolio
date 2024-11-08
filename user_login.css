@@ -1,0 +1,41 @@
+.this{
+    color:blue;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.that{
+    color:red;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+button{
+    background-color: aquamarine;
+}
+button:hover{
+    /*border-color:rgb(207, 223, 236);*/
+    color:white;
+    border-color:rgb(207, 223, 236);
+    background-color:magenta;
+    box-shadow: 0 0.5em 0.5em -0.4em yellowgreen;
+    font-size: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#submit:hover{
+    color:rgb(96, 235, 108);
+    border-color:rgb(207, 223, 236);
+    background-color:dimgrey;
+    font-family: fantasy;
+    font-style: italic;
+    font-size: 15px;
+}
+#name:hover{
+    color:rgb(176, 5, 170);
+}
+#user:hover{
+    background-color: rgb(127, 219, 231);
+    box-shadow: 0 0.5em 0.5em -0.4em rgb(35, 35, 234);
+}
+#pass:hover{
+    background-color: rgb(104, 186, 228);
+    box-shadow: 0 0.5em 0.5em -0.4em rgb(35, 35, 234);
+}

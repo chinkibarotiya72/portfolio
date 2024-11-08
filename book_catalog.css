@@ -1,0 +1,27 @@
+button{
+    color:rgb(249, 36, 214);
+    background-color:cyan;
+
+}
+button:hover{
+    background-color: darkolivegreen;
+    color:lightcoral;
+    box-shadow: 0 0.5em 0.5em -0.4em blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:1em;
+}
+#search:hover{
+    background-color: coral;
+    color:azure;
+}
+#go{
+    background-color: cyan;
+    color:rgb(255, 0, 200)
+}
+
+#go:hover{
+    background-color: brown;
+    color:bisque;
+    box-shadow: 0 0.5em 0.5em -0.4em;
+    font-size: 1em;
+}
